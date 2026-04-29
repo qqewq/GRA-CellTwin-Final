@@ -1,0 +1,13 @@
+Build a bilingual (EN/RU) web interface for GRA-CellTwin-Final.
+The interface should allow users to:
+- Input a disease (e.g., "breast cancer")
+- Display the generated therapy (OSKM, senolytics, CRISPR targets)
+- Show a dynamic Plotly chart of cell trajectories after GRA zeroing
+- Toggle between English and Russian languages
+
+Use the following API or mock data:
+- POST /generate_therapy with body {"disease": "breast cancer"}
+- The response includes {"therapy": {...}, "plot_data": {...}}
+
+Design a clean, modern UI similar to Biohub's style.
+Include a "Zero Hallucination" badge powered by GRA.
