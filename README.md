@@ -1,3 +1,5 @@
+https://orcid.org/my-orcid?orcid=0009-0004-1872-1153
+https://doi.org/10.5281/zenodo.19879769
 # GRA-CellTwin-Final
 GRA-CellTwin-Final. What is GRA-CellTwin? GRA‑CellTwin‑Final is a multi‑level *Generalized Resonance Alignment* (GRA) simulator that creates accurate in silico replicas of single cells.  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
